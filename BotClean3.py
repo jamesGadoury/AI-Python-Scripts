@@ -1,3 +1,4 @@
+#Solution for https://www.hackerrank.com/challenges/botcleanv2?hr_b=1
 #Bot Clean in partially observable environment - can only "sense" 3 x 3 squares
 def find_nearest_target_dirt(robLoc, dLoc):
     for i in range(len(dLoc)):

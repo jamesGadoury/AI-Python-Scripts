@@ -1,3 +1,4 @@
+#Solution for https://www.hackerrank.com/challenges/battery/problem
 #!/bin/python3
 import matplotlib.pyplot as plt
 import math
